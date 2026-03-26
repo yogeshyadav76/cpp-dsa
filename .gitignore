@@ -1,0 +1,14 @@
+# mac system files
+.DS_Store
+
+# compiled files
+run
+test
+patterns
+
+# debug folders
+*.dSYM
+
+# input/output files
+input.txt
+output.txt
