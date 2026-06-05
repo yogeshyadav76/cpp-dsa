@@ -12,3 +12,5 @@ patterns
 # input/output files
 input.txt
 output.txt
+
+build/
